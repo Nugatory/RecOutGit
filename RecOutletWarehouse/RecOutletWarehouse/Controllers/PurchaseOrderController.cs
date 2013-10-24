@@ -13,6 +13,7 @@ namespace RecOutletWarehouse.Controllers
 
         public ActionResult Index()
         {
+            
             return View();
         }
 
